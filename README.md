@@ -1,2 +1,2 @@
-# Pac-Man
-A text-based Pac-Man game
+# Modified Pac-Man
+Based on the classic Pac-Man game
